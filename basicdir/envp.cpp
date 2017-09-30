@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv, char **envp){
 
-
+//checking git commit
 	int c=0;
 	while(*envp){
 	++c;
